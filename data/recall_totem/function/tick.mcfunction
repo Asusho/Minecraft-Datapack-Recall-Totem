@@ -1,0 +1,1 @@
+execute as @a[scores={last_death=1..}] at @s run function recall_totem:save_death_pos

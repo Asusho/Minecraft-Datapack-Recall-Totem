@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "use_recall_totem": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:totem_of_undying"],
+          "predicates": {
+            "minecraft:custom_data": "{recall_totem:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "recall_totem:use_totem"
+  }
+}
