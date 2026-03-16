@@ -49,7 +49,6 @@ Le Totem de Rappel se fabrique sur un établi avec des composants de résonance 
 
 ## 🚀 Installation
 
-1.  Téléchargez le dossier du datapack.
-2.  Placez-le dans le dossier de votre monde :  
-    `%appdata%/.minecraft/saves/[NOM_DE_VOTRE_MONDE]/datapacks/`
-3.  Lancez votre partie ou tapez la commande `/reload`.
+1. Téléchargez le .zip du datapack.
+2. Placez-le dans le dossier datapacks de votre monde.
+3. Tapez /reload en jeu.
